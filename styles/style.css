@@ -150,7 +150,7 @@ ol {
 .search-form__checkbox:checked + .search-form__pseudo-checkbox::after {
   opacity: 1;
 }
-input{
+input {
   border: none;
   border-top: 1px solid #fff;
   border-bottom: 1px solid #fff;
@@ -166,7 +166,7 @@ input{
   outline: 1px solid #fff;
 }
 
-.button{
+.button {
   border: 1px solid #fff;
   background-color: transparent;
   color:#fff;
@@ -184,11 +184,11 @@ input{
   align-self:flex-end;
 }
 
-.button:hover{
+.button:hover {
   text-decoration: underline;
 }
 
-.button:active{
+.button:active {
   background-color: #545050;
   text-decoration:none;
 }
@@ -311,6 +311,7 @@ input{
   height: 103px;
   object-position: right;
   padding-right: 3px;
+  overflow: visible;
 }
 
 .more-button {
