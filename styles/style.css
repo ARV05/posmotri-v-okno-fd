@@ -219,7 +219,7 @@ input {
   flex-direction: column;
   gap: 26px;
   width: 100%;
-  min-height: 535.5px;
+  height: 535.5px;
 }
 
 .title {
